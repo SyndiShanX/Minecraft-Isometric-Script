@@ -1,4 +1,4 @@
-# Minecraft-Isometric-Script
+# Minecraft Isometric Script
 
 Generates an Isometric Image of a Block using Blender
 
@@ -62,4 +62,4 @@ Generates an Isometric Image of a Block using Blender
 
 * Create the `Textures` Folder in the Same Directory as `Render_Isometric_Batch.exe`
 
-* Place Block Textures into `Batch/Textures` > Run `Render_Isometric_Batch.exe` to Create `Batch/Isometrics/Isometric_#.png`
+* Place Block Textures into the `Textures` folder > Run `Render_Isometric_Batch.exe` to Create `Batch/Isometrics/Isometric_#.png`
