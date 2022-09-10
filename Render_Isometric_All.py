@@ -10,6 +10,6 @@ fileDir = fileDir + "Texture.png"
 if os.path.exists('Isometric.png'):
   os.remove('Isometric.png')
 
-subprocess.call('blender -b Isometric_Block.blend -o ' + fileDir + ' -f 1')
+subprocess.call('blender -b Isometric_Block_All.blend -o ' + fileDir + ' -f 1')
 
 os.rename('Texture.png0001.png','Isometric.png')
